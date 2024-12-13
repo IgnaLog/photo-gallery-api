@@ -1,7 +1,5 @@
 <h1 align="center">Photo Gallery API</h1>
 
-</br>
-
 ## Introduction
 
 The **Photo Gallery API** is a backend application developed with **Node.js**, **Express**, and **TypeScript**, designed to manage a photo gallery. It uses the [Multer](https://www.npmjs.com/package/multer) library to upload images to the server and **MongoDB** to store photo information.
@@ -58,7 +56,7 @@ The project is organized into the following main modules:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/photo-gallery-api.git
+git clone https://github.com/IgnaLog/photo-gallery-api.git
 cd photo-gallery-api
 ```
 
